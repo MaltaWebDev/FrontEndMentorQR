@@ -38,4 +38,4 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Author
 
 - Website - [Malta Web Dev](https://github.com/MaltaWebDev/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MaltaWebDev)
+- Frontend Mentor - [@MaltaWebDev](https://www.frontendmentor.io/profile/MaltaWebDev)
