@@ -28,6 +28,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS variables
 - Flexbox
 - CSS Grid
 
