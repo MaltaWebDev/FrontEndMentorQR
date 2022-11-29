@@ -49,13 +49,13 @@ main {
   padding: 10px 30px 10px 30px;
 }
 
-.text p {
+.text {
   color: var(--grayish-blue);
   font-size: 1rem;
   text-align: center;
   font-family: "Outfit", sans-serif;
   font-weight: 400;
-  padding: 10px 30px 40px 30px;
+  padding: 0 30px 40px 30px;
 }
 
 .attribution {
