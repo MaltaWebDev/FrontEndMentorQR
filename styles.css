@@ -39,7 +39,7 @@ main {
   border-radius: 20px;
 }
 
-.subheading {
+.subheading h1 {
   color: var(--dark-blue);
   font-size: 1.5em;
   text-align: center;
