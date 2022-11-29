@@ -13,13 +13,20 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Overview
 
-### Screenshot
+QR code component created from scratch, following Figma design.
+
+### Screenshot of component in production
 
 ![](./images/Screenshot.png)
+
+### Design comparison snapshot
+
+![](./images/comparison.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/MaltaWebDev/QR-Component)
+- Design comparison snapshot [Front End Mentor](https://www.frontendmentor.io/solutions/qr-component-using-css-and-html-HgZbVjl7o2)
 - Live Site URL: [Live site URL](https://maltawebdev.github.io/QR-Component/)
 
 ## My process
