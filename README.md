@@ -23,8 +23,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MaltaWebDev/QR-Component)
-- Live Site URL: [Add live site URL here](https://maltawebdev.github.io/QR-Component/)
+- Solution URL: [Github](https://github.com/MaltaWebDev/QR-Component)
+- Live Site URL: [Live site URL](https://maltawebdev.github.io/QR-Component/)
 
 ## My process
 
